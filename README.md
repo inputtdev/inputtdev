@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=MrCool.lol+%7C+mrcool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Inputt.dev+%7C+inputt+on+top)](https://git.io/typing-svg)
 <img align="left" src="https://r2.guns.lol/0ecabe7d-ec04-497c-a7ac-51f1681ecb66.webp" width="147"/> 
 
 ```csharp
