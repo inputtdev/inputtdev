@@ -5,7 +5,7 @@
 github.com/inputtlol
 dc   $  @192.168.6.7
 dc serv  $  Terminated
-web  $  inputt.dev
+web  $  inputt.cc
 ```
 &zwnj; 
 &zwnj; 
